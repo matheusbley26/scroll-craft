@@ -14,6 +14,7 @@ description: >
   like a template", or requests for a distinctive website that feels like an
   experience rather than a document.
 allowed-tools: Bash, Read, Write, Edit, Glob, Grep, AskUserQuestion
+disable-model-invocation: true
 ---
 
 # scroll-craft
